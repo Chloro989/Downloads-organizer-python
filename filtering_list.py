@@ -87,7 +87,7 @@ directories = {
         ".wma",
     ),
     "PLAINTEXT": (".txt", ".in", ".out"),
-    "PDF": (".pdf",), 
+    "PDF": (".pdf",),
     "PYTHON": (".py",),
     "JAVA": (".java", ".jar", ".class"),  # java
     "JAVA_SCRIPT": (".js", ".jsx"),  # JSX
